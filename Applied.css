@@ -1,0 +1,232 @@
+body{
+	font-size: 100%;
+	font-family: Microgramma Bold Extended;
+	text-align: center;
+	width: 100%;
+	height: 100%;
+	background-color: #000000;
+	margin: 0px;}
+.one{
+	width: 100%;
+	height: 100%;
+	background-color: #ffffff;
+	margin: auto;}
+.three{
+	width: 97.887%;
+	height: 600px;
+	background-color: #8e8c7a;
+	margin: auto;
+	margin-top: 8.21%;}
+.four{
+	width: 82.112%;
+	height: 38.228%;
+	background-color: #0000ff;
+	margin: auto;}
+.five{
+	width: 84.117%;
+	height: 100%;
+	border-style: solid;
+	border-width: 20px;
+	border-color: #000000;
+	background-color: #ffffff;
+	margin: auto;}
+.right{
+	float: right;
+	position: relative;
+	top: 5%;
+	right: 5%;
+	background-color: #00ffff;}
+.left{
+	float: left;
+	position: relative;
+	top: 5%;
+	left: 5%;
+	background-color: #ff00ff;}
+.settings{
+	width: 8.452%;
+	height: 26.435%;
+	float: left;
+	margin-right: 5%;
+	margin-left: 6.5%;
+	padding: 5px;
+	background-color: #ff0000;}
+.number{
+	width: 30.590%;
+	height: 36%;
+	float: left;
+	padding: 5px;
+	margin-left: 2.5%;
+	background-color: #8e8c7a;}
+.select{
+	width: 27.370%;
+	height: %;
+	float: right;
+	background-color: #8e8c7a;}
+.back {
+	height: 100%;
+	width: 100%;
+	float: left;}
+.leftarrow {
+	width: 30.882%;
+	height: 
+	background-color: #8e8c7a;}
+.uparrow {
+	width: 30.882%;
+	background-color: #8e8c7a;}
+.rightarrow {
+	width: 30.882%;
+	background-color: #8e8c7a;}
+.downarrow {
+	width: 30.882%;
+	background-color: #8e8c7a;}
+.enter {
+	width: 30.882%;
+	background-color: #8e8c7a;
+	font-size: 125%;}
+.sound{
+	width: 100%;
+	height: 50%;}
+.Bright{
+	width: 100%;
+	height: 50%;}
+.on{
+	width: 100%;
+	height: 50%;}
+#left {
+	width: 40%;
+	height: 60px;
+	float: left;
+	background: #ffffff;
+	/*-webkit-transform:rotate(-45deg);*/}
+#up{
+	width: 40%;
+	height: 60px;
+	margin-top: 5%;
+	background: #ffffff;
+	/*-webkit-transform:rotate(-45deg);*/}
+#right {
+	width: 40%;
+	height: 60px;
+	float: right;
+	background: #ffffff;
+	/*-webkit-transform:rotate(-45deg);*/}
+#down {
+	width: 40%;
+	height: 60px;
+	background: #ffffff;
+	/*-webkit-transform:rotate(-45deg);*/}
+#enter{
+	margin-top: 20%;
+	width: 50%;
+	height: 25%;
+	background: #ffffff;}
+#logo{
+	position: relative;
+	height: 5.474%;
+	width: 5.474%;}
+#arrow{
+	/*-webkit-transform:rotate(45deg)*/;
+	text-align: center;
+	width: 100%;
+	height: 100%;}
+#numone {
+	width: 27.632%;
+	height: ;
+	float: left;
+	padding: 0px;
+	margin-bottom: 6.280%;
+	color: #000000;}
+#numtwo {
+	width: 27.632%;
+	float: left;
+	margin-left: 8.553%;
+	margin-bottom: 6.280%;
+	padding: 0px;
+	color: #000000;}
+#numthree{
+	width: 27.632%;
+	float: left;
+	margin-left: 8.553%;
+	margin-bottom: 6.280%;
+	padding: 0px;
+	color: #000000;}
+#numfour{
+	width: 27.632%;
+	float: left;
+	margin-bottom: 6.280%;
+	padding: 0px;
+	color: #000000;}
+#numfive{
+	width: 27.632%;
+	float: left;
+	margin-left: 8.553%;
+	margin-bottom: 6.280%;
+	padding: 0px;
+	color: #000000;}
+#numsix{
+	width: 27.632%;
+	float: left;
+	margin-left: 8.553%;
+	margin-bottom: 6.280%;
+	padding: 0px;
+	color: #000000;}
+#numseven{
+	width: 27.632%;
+	float: left;
+	padding: 0px;
+	margin-bottom: 6.280%;
+	color: #000000;}
+#numeight{
+	width: 27.632%;
+	float: left;
+	margin-left: 8.553%;
+	margin-bottom: 6.280%;
+	padding: 0px;
+	color: #000000;}
+#numnine{
+	width: 27.632%;
+	float: left;
+	margin-left: 8.553%;
+	margin-bottom: 6.280%;
+	padding: 0px;
+	color: #000000;}
+#plus{ 
+	width: 27.632%;
+	float: left;
+	padding: 0px;
+	color: #000000;
+	font-size: 160%;}
+#numzero{
+	width: 27.632%;
+	float: left;
+	margin-left: 8.553%;
+	padding: 0px;
+	color: #000000;
+	font-size: 160%;}
+#period{
+	width: 27.632%;
+	float: left;
+	margin-left: 8.553%;
+	padding: 0px;
+	color: #000000;}
+#sun{
+	width: 100%;
+	height: 100%;}
+#sound{
+	width: 100%;
+	height: 100%;}
+h1 {
+	float: left;
+	font-size: 150%;
+	color: #ffffff;}
+h2{
+	text-align: left;
+	margin-top: 4.5%;
+	font-size: 112.5%;
+	color: #ffffff;}
+h3{
+	margin-right: 20px;
+	float: right;
+	text-align: right;
+	font-size: 100%;
+	color: #8e8c7a;}
